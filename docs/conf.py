@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Basic Sphinx Example Project"
-copyright = "2022, Read the Docs core team"
-author = "Read the Docs core team"
+project = "Futura Bot Project"
+copyright = "2024, Futura bot core team"
+author = "Futura bot core team"
 
 
 # -- General configuration ---------------------------------------------------
